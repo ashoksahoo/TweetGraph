@@ -1,0 +1,21 @@
+{
+  "name": "TweetGraph",
+  "version": "0.0.1",
+  "authors": [
+    "Ashok Sahoo <hello@ashok.io>"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "public/libs/",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "socket.io-client": "~1.3.4",
+    "bootstrap": "~3.3.2",
+    "chartjs": "~1.0.1"
+  }
+}

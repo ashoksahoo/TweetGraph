@@ -1,0 +1,9 @@
+extends layout
+
+block content
+    h1 Tweets in Last 10 Mins
+    canvas(width="600" height="300" id="myChart")
+    script(src="./libs/socket.io-client/socket.io.js")
+    script(src="./libs/chartjs/Chart.js")
+    script(src="./libs/jquery/dist/jquery.js")
+    script(src='./javascripts/index.js').
