@@ -9,6 +9,9 @@ Displays a Graph of Tweets In Last 10mins
 * Bower
   * Bower need to be install globally to use bower command.
   * Run `npm install -g bower`. You might need administrative privilages i.e `sudo npm install -g bower`.
+* Twitter Application
+  * Create a new app in twitter [here](https://apps.twitter.com/).
+  * Copy the `config.example.js` to `config.js` and add the keys from twitter.
 
 
 
