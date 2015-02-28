@@ -26,4 +26,7 @@ Displays a Graph of Tweets In Last 10mins
 7. Start the app usine `npm start`.
 8. Navigate to http://localhost:3000/
 
+##Configuration
+You can change what are the tweets to watch in `bin/www.js` file by changing the values for `tw.track(<insert keyword to track>);`
+
 
